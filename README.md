@@ -1,2 +1,3 @@
-# techNotes
-MERN Stack app exercice
+# TECHNOTES
+# MERN Stack app exercice
+# By: [Stephane Malho from Dave Grey course](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbndjdkJmRmJvT2NNTGlUbUljdi1BLXFNcmFPZ3xBQ3Jtc0tsM1AzSnR2VlJWM09RalcyWWJkV0d2amdFbVIzU0VTQk01blpFR2tpTUthVnR2QWJQUUtjaXFfWEdtZDQ0czBuZ2tVN2dSN3A2NWsxZkZrMnRfUm8yNVV6MEVsZ1BRSTRYZ2U4clF4WjNwSWxKRkRaTQ&q=https%3A%2F%2Fgithub.com%2Fgitdagray%2Fmern_stack_course&v=H-9l-gTq-C4)
